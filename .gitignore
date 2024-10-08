@@ -1,0 +1,17 @@
+# Virtual Environment
+machine-learning/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Other files
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other editor specific files
+.vscode/
+.idea/
